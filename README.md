@@ -7,7 +7,7 @@ Collections
 	* [Anim](#Anim)
 		* [Backboard一个“驱动运动”的动画库 Github](https://github.com/tumblr/Backboard)
 		* [FAB-Loading Floating Action Button的loading动画效果](#FAB-Loading)
-		* [不同类型的loading动画效果](https://github.com/raweng/android-different-loading-animations)
+		* [android-different-loading-animations不同类型的loading动画效果](#android-different-loading-animations)
 		* [加载动画ImageView](https://github.com/chiemy/LoadingImageView)
 		* [着色的加载视图库](https://github.com/recruit-lifestyle/ColoringLoading)
 		* [弧线动画之王](https://github.com/bmarrdev/android-DecoView-charting)
@@ -256,14 +256,25 @@ Collections
 
 ## <a id="View"></a>View
 ### <a id="Anim"></a>Anim
-#### <a id="FAB-Loading"></a>FAB-Loading 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FAB--Loading-green.svg?style=flat)](https://android-arsenal.com/details/1/2418)
-==========================
+#### <a id="FAB-Loading"></a>FAB-Loading
+
+[Github](https://github.com/smasoumi/FAB-Loading)
+
 A loading animation based on Floating Action Button.
 
- ![Marvel Sample Screenshots][1]
+![Screenshot](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/preview.gif)
 
- ![FAB-Loading Sample Screenshots][2]
+![marvel_loader](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif)
+
+#### <a id="android-different-loading-animations"/>android-different-loading-animations
+
+[Github](https://github.com/raweng/android-different-loading-animations)
+
+different types of loading animations.
+
+![Screenshot](https://camo.githubusercontent.com/06fb060c22b31e1afa752573c1ce8b418334e41a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f7261775f626c6f672f4c6f6164696e67416e696d6174696f6e2f6c6f6164696e672e676966)
+
+
 ### <a id="WheelView"></a> WheelView
 ---
 ### <a id="Date&Time_Picker"></a> Date&Time_Picker
