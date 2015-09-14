@@ -8,9 +8,9 @@ Collections
 		* [Backboard一个“驱动运动”的动画库 Github](https://github.com/tumblr/Backboard)
 		* [FAB-Loading Floating Action Button的loading动画效果](#FAB-Loading)
 		* [android-different-loading-animations不同类型的loading动画效果](#android-different-loading-animations)
-		* [加载动画ImageView](https://github.com/chiemy/LoadingImageView)
-		* [着色的加载视图库](https://github.com/recruit-lifestyle/ColoringLoading)
-		* [弧线动画之王](https://github.com/bmarrdev/android-DecoView-charting)
+		* [LoadingImageView加载动画ImageView](#LoadingImageView)
+		* [ColoringLoading着色的加载视图库](#ColoringLoading)
+		* [android-DecoView-charting 弧线动画之王](#android-DecoView-charting)
 		* [控制动画过渡效果的类库](https://github.com/XMFE-TEAM/TransitionPlayer)
 		* [一组资源组成背景动画](https://github.com/tslamic/FancyBackground)
 		* [旋转动画](https://github.com/Kyson/WhorlView)
@@ -274,7 +274,40 @@ different types of loading animations.
 
 ![Screenshot](https://camo.githubusercontent.com/06fb060c22b31e1afa752573c1ce8b418334e41a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f7261775f626c6f672f4c6f6164696e67416e696d6174696f6e2f6c6f6164696e672e676966)
 
+#### <a id="LoadingImageView"/>LoadingImageView
 
+[Github](https://github.com/chiemy/LoadingImageView)
+
+![Screenshot](https://github.com/chiemy/LoadingImageView/raw/master/capture.gif)
+
+#### <a id="ColoringLoading"/>ColoringLoading
+
+[Github](https://github.com/recruit-lifestyle/ColoringLoading)
+
+![Screenshot](https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/animation.gif)
+
+
+| NINJA                               | BUTTERFLY                          | VIOLIN                              |
+|:------------------------------------|:-----------------------------------|:-----------------------------------|
+| <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc1.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc2.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc11.png" width="200">|
+
+| RIFLE                               | HEAR STYLE                         | TOOTH                              |
+|:------------------------------------|:-----------------------------------|:-----------------------------------|
+| <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc4.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc5.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc6.png" width="200">|
+
+| CUCUMBER                            | STORM                              | DOGEZA                             |
+|:------------------------------------|:-----------------------------------|:-----------------------------------|
+| <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc12.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc8.png" width="200">|<img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc9.png" width="200">|
+
+| CAT                                 |
+|:------------------------------------|
+| <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc10.png" width="200">|
+
+#### <a id="android-DecoView-charting"/>android-DecoView-charting
+
+[Github](https://github.com/bmarrdev/android-DecoView-charting)
+
+![Screenshot](https://github.com/bmarrdev/android-DecoView-charting/raw/master/art/decoview_header.png)
 ### <a id="WheelView"></a> WheelView
 ---
 ### <a id="Date&Time_Picker"></a> Date&Time_Picker
