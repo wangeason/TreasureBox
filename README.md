@@ -84,10 +84,12 @@ Collections
 		* [动感的Sheet选择器](https://github.com/zzz40500/AndroidSweetSheet)
 		* [底部划出菜单，滑动时背景图透明度渐变，支持嵌套 LiewView 或 ScrollView](https://github.com/kingideayou/SlideBottomPanel)
 		* [BlurDialogFragment 对话框外模糊](https://github.com/tvbarthel/BlurDialogFragment)
+		* [frenchtoast自定义时长，与activity生命周期同步](#frenchtoast)
 	* [PullToRefresh](#PullToRefresh)
 		* [android仿京东、淘宝商品详情页上拉查看详情](https://github.com/ysnows/DoubleScrollVIew)
 		* [JellyRefreshLayout](https://github.com/allan1st/jellyrefreshlayout)
 		* [WaveSwipeRefreshLayout 水滴](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
+		* [Android-MaterialRefreshLayout 材料版](#Android-MaterialRefreshLayout)
 	* [Progress](#Progress)
 		* [ProgressLayout](https://github.com/antonkrasov/AndroidProgressLayout)
 		* [activity下各种状态的显示](https://github.com/vlonjatg/progress-activity)
@@ -110,6 +112,7 @@ Collections
 		* [PinnedHeaderListView a-z放在最上](https://git.oschina.net/way/PinnedHeaderListView)
 	* [Spinner](#Spinner)
 		* [nice-spinner 终于有个看得的Spinner了](https://github.com/arcadefire/nice-spinner)
+		* [SearchableSpinner 带搜索功能](#SearchableSpinner)
 	* [TextView](#TextView)
 		* [字体大小和行适应TextView的大小](https://github.com/AndroidDeveloperLB/AutoFitTextView)
 		* [对齐textview文本的类库](https://github.com/bluejamesbond/TextJustify-Android)
@@ -192,6 +195,8 @@ Collections
 		* [Once 管理只做一次的事](https://github.com/jonfinerty/Once) 
 	* [Font](#Font)
 		* [easyfonts](https://github.com/vsvankhede/easyfonts) 
+	* [Bug](#Bug)
+		* [telescope 截屏发邮件](#telescope)
 
 	
 --
@@ -203,6 +208,7 @@ Collections
 	* [openCV 车牌识别](https://github.com/liuruoze/EasyPR)
 	* [图片缓慢移动](https://github.com/flavioarfaria/KenBurnsView)
 	* [Blurry 很好奇为什么要是GroupView怀疑是截图处理以后addView到ViewGroup中，待验证](https://github.com/wasabeef/Blurry)
+	* [android-gpuimage](#android-gpuimage)
 
 
 --
@@ -231,6 +237,8 @@ Collections
 	* [LollipopContactsRecyclerViewFastScroller](https://github.com/AndroidDeveloperLB/LollipopContactsRecyclerViewFastScroller)
 	* [MaterialTransitions 材料动画demo](https://github.com/toddway/MaterialTransitions)
 	* [android-dagger-example](https://github.com/swankjesse/android-dagger-example)
+	* [Telegram API](#Telegram)
+	* [9GAG stormzhang REST client](#9GAG)
 
 
 --
@@ -254,9 +262,9 @@ Collections
 
 ---
 
-## <a id="View"></a>View
-### <a id="Anim"></a>Anim
-#### <a id="FAB-Loading"></a>FAB-Loading
+# <a id="View"></a>View
+## <a id="Anim"></a>Anim
+### <a id="FAB-Loading"></a>FAB-Loading
 
 [Github](https://github.com/smasoumi/FAB-Loading)
 
@@ -266,7 +274,7 @@ A loading animation based on Floating Action Button.
 
 ![marvel_loader](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif)
 
-#### <a id="android-different-loading-animations"/>android-different-loading-animations
+### <a id="android-different-loading-animations"/>android-different-loading-animations
 
 [Github](https://github.com/raweng/android-different-loading-animations)
 
@@ -274,13 +282,13 @@ different types of loading animations.
 
 ![Screenshot](https://camo.githubusercontent.com/06fb060c22b31e1afa752573c1ce8b418334e41a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f7261775f626c6f672f4c6f6164696e67416e696d6174696f6e2f6c6f6164696e672e676966)
 
-#### <a id="LoadingImageView"/>LoadingImageView
+### <a id="LoadingImageView"/>LoadingImageView
 
 [Github](https://github.com/chiemy/LoadingImageView)
 
 ![Screenshot](https://github.com/chiemy/LoadingImageView/raw/master/capture.gif)
 
-#### <a id="ColoringLoading"/>ColoringLoading
+### <a id="ColoringLoading"/>ColoringLoading
 
 [Github](https://github.com/recruit-lifestyle/ColoringLoading)
 
@@ -303,17 +311,60 @@ different types of loading animations.
 |:------------------------------------|
 | <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc10.png" width="200">|
 
-#### <a id="android-DecoView-charting"/>android-DecoView-charting
+### <a id="android-DecoView-charting"/>android-DecoView-charting
 
 [Github](https://github.com/bmarrdev/android-DecoView-charting)
 
 ![Screenshot](https://github.com/bmarrdev/android-DecoView-charting/raw/master/art/decoview_header.png)
-### <a id="WheelView"></a> WheelView
+## <a id="WheelView"></a> WheelView
 ---
-### <a id="Date&Time_Picker"></a> Date&Time_Picker
+## <a id="Date&Time_Picker"></a> Date&Time_Picker
 ---
-### <a id="PopWindow"></a> PopWindow
+## <a id="PopWindow"></a> PopWindow
+### <a id="frenchtoast"/>frenchtoast
+
+[Github](https://github.com/pyricau/frenchtoast)
+
+![Screenshot](https://github.com/pyricau/frenchtoast/raw/master/assets/demo.gif)
 ---
-## <a id="Graphic"></a> Graphic
-## <a id="Demo"></a> Demo
-## <a id="AS_plugins"></a> AS_plugins
+## <a id="PullToRefresh"></a> PullToRefresh
+### <a id="Android-MaterialRefreshLayout"/>Android-MaterialRefreshLayout
+
+[Github](https://github.com/android-cjj/Android-MaterialRefreshLayout)
+
+![Screenshot](https://camo.githubusercontent.com/32ea1ba23dda29aea87572ee247c12a98586eaa7/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31312f3039353835396b703239376d6a6d6a3270687035706d2e6a7067)
+---
+## <a id=""></a> PullToRefresh
+### <a id="SearchableSpinner"/> SearchableSpinner
+
+[Github](https://github.com/rajasharan/SearchableSpinner)
+
+![Screenshot](https://github.com/rajasharan/SearchableSpinner/blob/master/screencast.gif)
+---
+# <a id="Graphic"></a> Graphic
+## <a id="android-gpuimage"></a>android-gpuimage
+Goal is to have something as similar to GPUImage as possible. Vertex and fragment shaders are exactly the same. That way it makes it easier to port filters from GPUImage iOS to Android.
+[Github](https://github.com/CyberAgent/android-gpuimage)
+
+[Picasso Sample](https://github.com/wasabeef/picasso-transformations)
+
+![Screenshot](https://github.com/wasabeef/picasso-transformations/raw/master/art/demo.gif)
+# <a id="Function"></a> Function
+## <a id="Bug"></a>Bug
+### <a id="telescope"></a>telescope
+
+[Github](https://github.com/mattprecious/telescope)
+
+![Screenshot](https://github.com/mattprecious/telescope/raw/master/images/sample.gif)
+# <a id="Demo"></a> Demo
+## <a id="Telegram"></a> Telegram
+
+[Telegram API manuals](http://core.telegram.org/api)
+
+[MTproto protocol manuals](http://core.telegram.org/mtproto)
+
+[Github](https://github.com/DrKLO/Telegram)
+## <a id="9GAG"></a> 9GAG
+
+[Github](https://github.com/stormzhang/9GAG)
+# <a id="AS_plugins"></a> AS_plugins
