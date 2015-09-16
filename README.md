@@ -322,7 +322,7 @@ different types of loading animations.
 ### <a id="FancyBackground"></a> FancyBackground
 [Github](https://github.com/tslamic/FancyBackground)
 
-![Screenshot](https://camo.githubusercontent.com/4c30b65ce9aef2625395666dce7f77289d292e2c/687474703a2f2f692e696d6775722e636f6d2f536834586567442e676966)
+![Screenshot](https://github.com/wangeason/TreasureBox/master/687474703a2f2f692e696d6775722e636f6d2f536834586567442e676966)
 ---
 ## <a id="FAB"></a> FAB
 ### <a id="FAB-Loading"></a>FAB-Loading
