@@ -6,13 +6,12 @@ Collections
 * [View](#View)
 	* [Anim](#Anim)
 		* [Backboard一个“驱动运动”的动画库 Github](https://github.com/tumblr/Backboard)
-		* [FAB-Loading Floating Action Button的loading动画效果](#FAB-Loading)
 		* [android-different-loading-animations不同类型的loading动画效果](#android-different-loading-animations)
 		* [LoadingImageView加载动画ImageView](#LoadingImageView)
 		* [ColoringLoading着色的加载视图库](#ColoringLoading)
 		* [android-DecoView-charting 弧线动画之王](#android-DecoView-charting)
-		* [控制动画过渡效果的类库](https://github.com/XMFE-TEAM/TransitionPlayer)
-		* [一组资源组成背景动画](https://github.com/tslamic/FancyBackground)
+		* [TransitionPlayer 控制动画过渡效果的类库,可用来做介绍页面](#TransitionPlayer)
+		* [FancyBackground 一组资源组成背景动画，不错的登陆或关于页面背景](#FancyBackground)
 		* [旋转动画](https://github.com/Kyson/WhorlView)
 		* [CircleProgress](https://github.com/Fichardu/CircleProgress)
 		* [几个小清新的loading](https://github.com/yankai-victor/Loading)
@@ -45,6 +44,9 @@ Collections
 	* [EditText](#EditText)
 		* [CloudEditText内容分不同块显示,支持校验,删除块,添加块,得到块代表的字符串集合](https://github.com/g707175425/CloudEditText)
 		* [material-code-input 像输入验证码](https://github.com/glomadrian/material-code-input)
+	* [FAB](#FAB)
+		* [FAB-Loading Floating Action Button的loading动画效果](#FAB-Loading)
+		* [FloatingActionButton 看着不错](#FloatingActionButton)
 	* [FloatingView](#FloatingView)
 		* [FloatingView](https://github.com/recruit-lifestyle/FloatingView) 
 	* [GridView](#GridView)
@@ -110,6 +112,7 @@ Collections
 		* [RecyclerView, ListView, and ScrollView的快速返回按钮](https://github.com/lawloretienne/QuickReturn)
 		* [给scrollview、listview、recycleview添加header与footer](https://github.com/blipinsk/RecyclerViewHeader)
 		* [PinnedHeaderListView a-z放在最上](https://git.oschina.net/way/PinnedHeaderListView)
+		* [MaterialScrollBar 显示首字母](#MaterialScrollBar)
 	* [Spinner](#Spinner)
 		* [nice-spinner 终于有个看得的Spinner了](https://github.com/arcadefire/nice-spinner)
 		* [SearchableSpinner 带搜索功能](#SearchableSpinner)
@@ -197,7 +200,8 @@ Collections
 		* [easyfonts](https://github.com/vsvankhede/easyfonts) 
 	* [Bug](#Bug)
 		* [telescope 截屏发邮件](#telescope)
-
+	* [Reflection](#Reflection)
+		* [jOOR 方便的反射代码](#jOOR)
 	
 --
 * [Graphic](#Graphic)
@@ -239,6 +243,7 @@ Collections
 	* [android-dagger-example](https://github.com/swankjesse/android-dagger-example)
 	* [Telegram API](#Telegram)
 	* [9GAG stormzhang REST client](#9GAG)
+	* [JustWeTools 其中的paittool有用](#JustWeTools)
 
 
 --
@@ -264,17 +269,9 @@ Collections
 
 # <a id="View"></a>View
 ## <a id="Anim"></a>Anim
-### <a id="FAB-Loading"></a>FAB-Loading
 
-[Github](https://github.com/smasoumi/FAB-Loading)
 
-A loading animation based on Floating Action Button.
-
-![Screenshot](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/preview.gif)
-
-![marvel_loader](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif)
-
-### <a id="android-different-loading-animations"/>android-different-loading-animations
+### <a id="android-different-loading-animations"></a>android-different-loading-animations
 
 [Github](https://github.com/raweng/android-different-loading-animations)
 
@@ -282,13 +279,13 @@ different types of loading animations.
 
 ![Screenshot](https://camo.githubusercontent.com/06fb060c22b31e1afa752573c1ce8b418334e41a/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f36313931393233322f7261775f626c6f672f4c6f6164696e67416e696d6174696f6e2f6c6f6164696e672e676966)
 
-### <a id="LoadingImageView"/>LoadingImageView
+### <a id="LoadingImageView"></a>LoadingImageView
 
 [Github](https://github.com/chiemy/LoadingImageView)
 
 ![Screenshot](https://github.com/chiemy/LoadingImageView/raw/master/capture.gif)
 
-### <a id="ColoringLoading"/>ColoringLoading
+### <a id="ColoringLoading"></a>ColoringLoading
 
 [Github](https://github.com/recruit-lifestyle/ColoringLoading)
 
@@ -311,17 +308,42 @@ different types of loading animations.
 |:------------------------------------|
 | <img src="https://github.com/recruit-lifestyle/ColoringLoading/raw/master/sc/sc10.png" width="200">|
 
-### <a id="android-DecoView-charting"/>android-DecoView-charting
+### <a id="android-DecoView-charting"></a>android-DecoView-charting
 
 [Github](https://github.com/bmarrdev/android-DecoView-charting)
 
 ![Screenshot](https://github.com/bmarrdev/android-DecoView-charting/raw/master/art/decoview_header.png)
+---
+### <a id="TransitionPlayer"></a> TransitionPlayer
+[Github](https://github.com/XMFE-TEAM/TransitionPlayer)
+
+![Screenshot](https://github.com/XMFE-TEAM/TransitionPlayer/raw/master/demo/demo_xiaoma_intro.gif)
+---
+### <a id="FancyBackground"></a> FancyBackground
+[Github](https://github.com/tslamic/FancyBackground)
+
+![Screenshot](https://camo.githubusercontent.com/4c30b65ce9aef2625395666dce7f77289d292e2c/687474703a2f2f692e696d6775722e636f6d2f536834586567442e676966)
+---
+## <a id="FAB"></a> FAB
+### <a id="FAB-Loading"></a>FAB-Loading
+
+[Github](https://github.com/smasoumi/FAB-Loading)
+
+A loading animation based on Floating Action Button.
+
+![Screenshot](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/preview.gif)
+
+![marvel_loader](https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif)
+### <a id="FloatingActionButton"></a> FloatingActionButton
+[Github](https://github.com/Clans/FloatingActionButton)
+![Screenshot](https://github.com/Clans/FloatingActionButton/raw/master/screenshots/menu_custom_opened.png)
+![Screenshot](https://github.com/Clans/FloatingActionButton/raw/master/screenshots/menu_default_opened.png)
 ## <a id="WheelView"></a> WheelView
 ---
 ## <a id="Date&Time_Picker"></a> Date&Time_Picker
 ---
 ## <a id="PopWindow"></a> PopWindow
-### <a id="frenchtoast"/>frenchtoast
+### <a id="frenchtoast"></a>frenchtoast
 
 [Github](https://github.com/pyricau/frenchtoast)
 
@@ -334,12 +356,17 @@ different types of loading animations.
 
 ![Screenshot](https://camo.githubusercontent.com/32ea1ba23dda29aea87572ee247c12a98586eaa7/687474703a2f2f7777772e61706b6275732e636f6d2f646174612f6174746163686d656e742f666f72756d2f3230313530392f31312f3039353835396b703239376d6a6d6a3270687035706d2e6a7067)
 ---
-## <a id=""></a> PullToRefresh
-### <a id="SearchableSpinner"/> SearchableSpinner
+### <a id="SearchableSpinner"></a> SearchableSpinner
 
 [Github](https://github.com/rajasharan/SearchableSpinner)
 
 ![Screenshot](https://github.com/rajasharan/SearchableSpinner/blob/master/screencast.gif)
+---
+## <a id="ScrollView"></a> ScrollView
+### <a id="MaterialScrollBar"/>MaterialScrollBar
+[Github](https://github.com/krimin-killr21/MaterialScrollBar)
+
+![Screenshot](https://camo.githubusercontent.com/0333cfd07a9cdab59fdc537036226b5d698919eb/687474703a2f2f692e696d6775722e636f6d2f38444e4c716b6e2e706e67)
 ---
 # <a id="Graphic"></a> Graphic
 ## <a id="android-gpuimage"></a>android-gpuimage
@@ -356,6 +383,22 @@ Goal is to have something as similar to GPUImage as possible. Vertex and fragmen
 [Github](https://github.com/mattprecious/telescope)
 
 ![Screenshot](https://github.com/mattprecious/telescope/raw/master/images/sample.gif)
+## <a id="Reflection"></a> Reflection
+### <a id="jOOR"></a> jOOR
+
+[Github](https://github.com/jOOQ/jOOR)
+
+````java
+// All examples assume the following static import:
+import static org.joor.Reflect.*;
+
+String world = on("java.lang.String")  // Like Class.forName()
+                .create("Hello World") // Call most specific matching constructor
+                .call("substring", 6)  // Call most specific matching substring() method
+                .call("toString")      // Call toString()
+                .get();                // Get the wrapped object, in this case a String
+````
+
 # <a id="Demo"></a> Demo
 ## <a id="Telegram"></a> Telegram
 
@@ -364,6 +407,12 @@ Goal is to have something as similar to GPUImage as possible. Vertex and fragmen
 [MTproto protocol manuals](http://core.telegram.org/mtproto)
 
 [Github](https://github.com/DrKLO/Telegram)
+## <a id="JustWeTools"></a> JustWeTools
+[Github](https://github.com/lfkdsk/JustWeTools)
+![Screenshot](https://github.com/lfkdsk/JustWeTools/raw/master/picture/gif.gif)
+![Screenshot](https://github.com/lfkdsk/JustWeTools/raw/master/picture/edit.png)
+![Screenshot](https://github.com/lfkdsk/JustWeTools/raw/master/picture/explorer2.png)
+![Screenshot](https://github.com/lfkdsk/JustWeTools/raw/master/picture/readbook.png)
 ## <a id="9GAG"></a> 9GAG
 
 [Github](https://github.com/stormzhang/9GAG)
